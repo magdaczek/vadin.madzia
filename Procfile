@@ -1,0 +1,1 @@
+web: java -jar target/vaadin-1.0-SNAPSHOT.war
